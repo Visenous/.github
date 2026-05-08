@@ -262,22 +262,6 @@ Responsible for investment strategy and financial structuring.
 
 ---
 
-## Wael Mahjoubi  
-Principal Architect and Technical Lead
-
-Responsible for:
-
-- enterprise architecture design
-- AI system engineering
-- platform development
-- robotics system architecture
-
-Technical focus includes:
-
-- distributed systems
-- AI integration
-- backend engineering
-- enterprise platform design
 
 ---
 
