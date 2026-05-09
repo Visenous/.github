@@ -258,13 +258,8 @@ Responsible for strategic partnerships and regional development.
 ## Marwan Mansour  
 Investment and Finance Partner
 
-Responsible for investment strategy and financial structuring.
-
+Responsible for investment strategy and financial structuring
 ---
-
-
----
-
 # Industries Served
 
 VISENIOUS develops systems for organizations in:
